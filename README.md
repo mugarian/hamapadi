@@ -1,2 +1,2 @@
-# hamapadi.github.io
+# hamapadi
 website informasi hama dan penyakit padi
