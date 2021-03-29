@@ -82,9 +82,15 @@ i {
 
 article {
 	border: 0;
-	backgroud-color: white;
-	margin-top: 100px;
-	padding: 40px 0;
+	background-color: white;
+	margin: 20px 100px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
+
+article h1 {
+	font-size: 2em;
+	padding-top: 20px;
 }
 
 footer { 
