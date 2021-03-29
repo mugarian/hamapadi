@@ -80,6 +80,13 @@ i {
 	margin: 0 center;
 }
 
+article {
+	border: 0;
+	backgroud-color: white;
+	margin-top: 100px;
+	padding: 40px 0;
+}
+
 footer { 
 	position: absolute;
 	bottom: 0;
